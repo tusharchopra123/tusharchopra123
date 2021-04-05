@@ -32,7 +32,7 @@
 
 ### 🤝🏻 Want to Connect?
 <p align="center">
-<a href="https://twitter.com/tushar376">
+<a href="https://twitter.com/tushar386">
   <img align="left" alt="Hemang's Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg" />
 </a>
 <a href="https://in.linkedin.com/in/tushar-chopra-bb244412b/">
