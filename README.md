@@ -20,11 +20,11 @@
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-05122A?style=flat&logo=android-studio&logoColor=a4c639)\
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Adobe XD](https://img.shields.io/badge/-Adobe_XD-05122A?style=flat&logo=adobe-xd)&nbsp;
+
 
 ### ⚙️ GitHub Analytics
 <p align="center">
-<a href="https://github.com/shauryashivam">
+<a href="https://github.com/tusharchopra123">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tusharchopra123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tusharchopra123&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -32,19 +32,19 @@
 
 ### 🤝🏻 Want to Connect?
 <p align="center">
-<a href="https://twitter.com/Shivam5799">
+<a href="https://twitter.com/tushar376">
   <img align="left" alt="Hemang's Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg" />
 </a>
-<a href="https://in.linkedin.com/in/shivam-in">
+<a href="https://in.linkedin.com/in/tushar-chopra-bb244412b/">
   <img align="left" alt="Hemang's LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" />
 </a>
-<a href="https://github.com/shauryashivam">
+<a href="https://github.com/tusharchopra123">
   <img align="left" alt="Hemang's GitHub" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/270/270798.svg" />
 </a>
-<a href="https://www.instagram.com/sh1vamshaurya">
+<a href="https://www.instagram.com/demon_lonewolf/">
   <img align="left" alt="Hemang's Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" />
 </a>
-<a href="https://www.facebook.com/shivam.shaurya319">
+<a href="https://www.facebook.com/tushar.chopra.58/">
   <img align="left" alt="Hemang's Facebook" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409943.svg"  class="white" />
 </a>
 <!--
