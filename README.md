@@ -8,7 +8,7 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=dart&logoColor=42A5F5)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=42A5F5)&nbsp;
 ![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=Mathworks&logoColor=FF9800)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -25,7 +25,7 @@
 ### ⚙️ GitHub Analytics
 <p align="center">
 <a href="https://github.com/shauryashivam">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shauryashivam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tusharchopra123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shauryashivam&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
